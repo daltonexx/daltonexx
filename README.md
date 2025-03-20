@@ -17,7 +17,7 @@
 - 📫 Reach me via [email](mailto:d.albeche@edu.pucrs.br)
 <br>
 
-##
+## 🛠️ Languages and Tools
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=python,java,ts,html,css,react,nextjs,git,github,gitlab&theme=dark)](https://skillicons.dev)
