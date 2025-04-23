@@ -11,10 +11,12 @@
 -->
 
 
-- 📚 **5th semester Software Engineering student** at PUCRS (2025/1)
-- 🔍 **Scientific researcher** at [PET-Inf](https://petinfpucrs.github.io/)
-- 🎯 Interested in back-end development, infrastructure and AI-related topics
+- 📚 **5th semester Software Engineering student** at PUCRS (2025/1)  
+- 📊 **Business Analytics Intern** at [RCI - Analytics Intelligence](https://www.rciit.com)  
+- 🔬 Former **Scientific Researcher** at [PET-Inf](https://petinfpucrs.github.io/)  
+- 🎯 Interested in back-end development, infrastructure and AI-related topics  
 - 📫 Reach me via [email](mailto:d.albeche@edu.pucrs.br)
+
 <br>
 
 ## 🛠️ Languages and Tools
