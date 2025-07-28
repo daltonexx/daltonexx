@@ -11,7 +11,7 @@
 -->
 
 
-- 📚 **5th semester Software Engineering student** at PUCRS (2025/1)  
+- 📚 **6th semester Software Engineering student** at PUCRS (2025/1)  
 - 📊 **Business Analytics Intern** at [RCI - Analytics Intelligence](https://www.rciit.com)  
 - 🔬 Former **Scientific Researcher** at [PET-Inf](https://petinfpucrs.github.io/)  
 - 🎯 Interested in back-end development, infrastructure and AI-related topics  
