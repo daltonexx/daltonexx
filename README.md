@@ -28,6 +28,23 @@
 
 ## Featured Projects
 Click on any card below to see more details.
+
+### 📘 Interactive Curriculum Matrix
+<table>
+  <tr>
+    <td width="180px" align="center">
+      <a href="https://github.com/PET-Inf/Matriz-Curricular">
+        <img src="assets/logo-matriz.png" height="140">
+      </a>
+    </td>
+    <td>
+      <p>
+<strong>Interactive Curriculum Matrix</strong> is a web application designed to enhance the visualization of curriculum matrices for courses at PUCRS. It replaces the static image format with a dynamic interface, making it easier for students and professors to understand prerequisites and academic progression. Developed as part of the <strong>PET-Informática Project</strong>, I contributed across the stack using <strong>React, TypeScript, and Sass</strong> for the front-end, and <strong>Java, Spring Boot, MySQL, and Docker</strong> for the back-end and infrastructure.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🎁 GiftReminder
 <table>
   <tr>
@@ -55,22 +72,6 @@ Click on any card below to see more details.
     <td>
       <p>
         <strong>Cosmos</strong> is a responsive Web platform designed to foster a collaborative network of extension projects focused on improving access to justice for socioeconomically vulnerable populations. Presented to <strong>UN collaborators from New York</strong> and developed as part of <strong>AGES II</strong>, I contributed to the back-end using <strong>Node.js, NestJS, TypeScript, PostgreSQL, and Prisma</strong>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 📘 Interactive Curriculum Matrix
-<table>
-  <tr>
-    <td width="180px" align="center">
-      <a href="https://github.com/PET-Inf/Matriz-Curricular">
-        <img src="assets/logo-matriz.png" height="140">
-      </a>
-    </td>
-    <td>
-      <p>
-<strong>Interactive Curriculum Matrix</strong> is a web application designed to enhance the visualization of curriculum matrices for courses at PUCRS. It replaces the static image format with a dynamic interface, making it easier for students and professors to understand prerequisites and academic progression. Developed as part of the <strong>PET-Informática Project</strong>, I contributed across the stack using <strong>React, TypeScript, and Sass</strong> for the front-end, and <strong>Java, Spring Boot, MySQL, and Docker</strong> for the back-end and infrastructure.
       </p>
     </td>
   </tr>
