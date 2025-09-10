@@ -60,6 +60,22 @@ Click on any card below to see more details.
   </tr>
 </table>
 
+### 📘 Interactive Curriculum Matrix
+<table>
+  <tr>
+    <td width="180px" align="center">
+      <a href="https://github.com/PET-Inf/Matriz-Curricular">
+        <img src="assets/logo-matriz.png" height="140">
+      </a>
+    </td>
+    <td>
+      <p>
+<strong>Interactive Curriculum Matrix</strong> is a web application designed to enhance the visualization of curriculum matrices for courses at PUCRS. It replaces the static image format with a dynamic interface, making it easier for students and professors to understand prerequisites and academic progression. Developed as part of the <strong>PET-Informática Project</strong>, I contributed across the stack using <strong>React, TypeScript, and Sass</strong> for the front-end, and <strong>Java, Spring Boot, MySQL, and Docker</strong> for the back-end and infrastructure.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Contact me
 
 <div>
